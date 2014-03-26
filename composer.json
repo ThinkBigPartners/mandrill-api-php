@@ -1,5 +1,5 @@
 {
-    "name": "thinkbigpartners/mandrill",
+    "name": "mandrill/mandrill",
     "type": "library",
     "version": "1.0.52",
     "description": "API client library for the Mandrill email as a service platform",
